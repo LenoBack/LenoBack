@@ -21,8 +21,10 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![InteliJ](	https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Winodows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )
@@ -33,8 +35,9 @@
 public class pratice {
     public static void main(String[] args) {
         
-/*        [[Language: Spring]]
-          [[Framework: MySQL]]
+/*        [[Language: Java]]
+          [[Framework: Spring]]
+          [[SQL: MySQL]]
           [[IDE: VsCode, InteliJ, Eclipse]]
           [[OS: Windows]]
           [[OtherTools: Git, Github, Notion, AWS]]  */
@@ -42,18 +45,20 @@ public class pratice {
         String[] group = new String[]{
                 "Language",
                 "Framework",
+                "SQL",
                 "IDE",
                 "OS",
                 "OtherTools"};
 
         String[] tool = new String[]{
+                "Java",
                 "Spring",
                 "MySQL",
                 "VsCode, InteliJ, Eclipse",
                 "Windows",
                 "Git, Github, Notion, AWS"};
         
-        String[] AboutMe = new String[5];
+        String[] AboutMe = new String[6];
         
         int i;
         for(i=0; i<group.length; i++){
