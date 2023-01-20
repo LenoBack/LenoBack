@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/LenoBack/LenoBack/blob/main/images/programming.gif?raw=true" href="https://github.com/LenoBack" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/LenoBack/LenoBack/blob/main/images/programming.gif?raw=true" href="https://github.com/LenoBack" alt="Hello Coders" width="50%" height="50%"/> <br>
   
 <p><strong>3rd year BCA student. During day, Assisting
 <br>my father at his shop & Coder at night.
