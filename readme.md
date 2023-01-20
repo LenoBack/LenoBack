@@ -64,6 +64,6 @@ public class pratice {
 ```
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Java & Spring in BootCamp. <img width="15%" align="right" alt="Github Image" src="https://github.com/LenoBack/LenoBack/blob/main/images/smile-guy.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning Java & Spring in BootCamp. <img width="15%" align="right" alt="Github Image" src="https://github.com/LenoBack/LenoBack/blob/main/images/smile-guy.gif?raw=true" /><br>
 - <img src="https://github.com/LenoBack/LenoBack/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I want to be a Backend engieneer.
 - <img src="https://github.com/LenoBack/LenoBack/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I am very interested in large data processing and big data. <br>
